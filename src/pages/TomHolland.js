@@ -10,7 +10,7 @@ export default function BrianStory() {
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+            src='/brian.jpg'
             alt='Brian Story'
           />
 
