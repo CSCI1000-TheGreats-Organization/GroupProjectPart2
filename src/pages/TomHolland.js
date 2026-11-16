@@ -1,21 +1,21 @@
-export default function examplePage() {
+export default function BrianStory() {
     return (
       <div className='container'>
-        <title>Website</title>
+        <title>Brian Story | About Me</title>
         <link rel='icon' href='/favicon.ico' />
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, I'm Brian Story. </h1>
           </div>
           <img
             className='pic'
             src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            alt='Brian Story'
           />
 
           <p className='description'>
-            Hi my name is Srikar Buddhineni, and this is my about me page for CSCI 1000 that I created with the help of git commands!
+            Hi my name is Brian Story, and this is my about me page for CSCI 1000 that I created with the help of git commands!
           </p>
 
           <a className='button' href='/'>
