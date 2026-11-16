@@ -1,3 +1,5 @@
+//https://csci-1000-brianstory.netlify.app/
+
 import Head from 'next/head'
 
 export default function Home() {
